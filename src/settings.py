@@ -1,0 +1,8 @@
+URL = "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos"
+OUTPUT_DIR = "../data/data_zip"
+CAMINHO_ANEXO_UM = "arquivos_solicitados_gov/Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf"
+PASTA_PDFS = "arquivos_solicitados_gov"
+PASTA_CSV = "arquivos_solicitados_csv"
+PASTA_DATA_ZIP = "data/data_zip" 
+ZIP_NOME = "ANEXOS_COMPRIMIDOS"
+ZIP_NOME_CSV = "Teste_Alex"
